@@ -8,7 +8,6 @@ A machine learning project that predicts the likelihood of heart disease based o
 
 Explore the application by entering patient health parameters and viewing the model's prediction.
 
----
 
 ## 📌 Project Overview
 
