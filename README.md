@@ -10,7 +10,7 @@ Explore the application by entering patient health parameters and viewing the mo
 
 ---
 
-## 📸 Application Screenshots
+## 📸 Application Screenshot
 
 ![Heart Disease Prediction](Heart%20Disease%20Prediction-screenshot.png)
 
