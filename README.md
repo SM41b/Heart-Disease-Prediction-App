@@ -10,6 +10,12 @@ Explore the application by entering patient health parameters and viewing the mo
 
 ---
 
+## 📸 Application Screenshots
+
+![Heart Disease Prediction](Heart%20Disease%20Prediction-screenshot.png)
+
+---
+
 ## 📌 Project Overview
 
 Heart disease is one of the major health concerns worldwide. This project uses machine learning to identify patterns in patient health data and predict the likelihood of heart disease.
